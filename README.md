@@ -2,7 +2,7 @@
 
 If you can read this file on your computer, you have successfully checked out this test repository.
 
-Write your name here: ________
+Write your name here: Teresa del Carmen Checa Marabotto
 
 Save this file and type:
 
